@@ -1,4 +1,5 @@
 name: Flask CI/CD
+run-name: ${{ github.actor }} is learning GitHub(Flask CI/CD scenario 1)
 
 on:
   push:
